@@ -5,7 +5,7 @@ public class JdbcAccess {
  
     public static void main(String[] args) {
          
-        String databaseURL = "jdbc:ucanaccess://e://User//VANISHREESB//eclipse-workspace//databse//Employee.accdb";
+        String databaseURL = "jdbc:ucanaccess://e://User//Nivedita//eclipse-workspace//databse//Employee.accdb";
          
         try  {
              
